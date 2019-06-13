@@ -1,0 +1,12 @@
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\bin\Debug\netcoreapp2.1\ConfigurationBasics.deps.json
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\bin\Debug\netcoreapp2.1\ConfigurationBasics.runtimeconfig.json
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\bin\Debug\netcoreapp2.1\ConfigurationBasics.runtimeconfig.dev.json
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\bin\Debug\netcoreapp2.1\ConfigurationBasics.dll
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\bin\Debug\netcoreapp2.1\ConfigurationBasics.pdb
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\obj\Debug\netcoreapp2.1\ConfigurationBasics.csprojAssemblyReference.cache
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\obj\Debug\netcoreapp2.1\ConfigurationBasics.csproj.CoreCompileInputs.cache
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\obj\Debug\netcoreapp2.1\ConfigurationBasics.AssemblyInfoInputs.cache
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\obj\Debug\netcoreapp2.1\ConfigurationBasics.AssemblyInfo.cs
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\obj\Debug\netcoreapp2.1\ConfigurationBasics.dll
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\obj\Debug\netcoreapp2.1\ConfigurationBasics.pdb
+P:\Practice Code\ConfigurationBasics\ConfigurationBasics\bin\Debug\netcoreapp2.1\appsettings.json

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConfigurationBasics": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ConfigurationBasics.GoodbyeMessage": "Dude! It's an env var!"
+      }
+    }
+  }
+}
